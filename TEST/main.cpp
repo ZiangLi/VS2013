@@ -15,7 +15,7 @@ using namespace cv;
 
 #define USE_BRISK
 //#define USE_SIFT
-
+const int test = 1;
 int main()
 {
 	// 读入一张图片（原画）  
